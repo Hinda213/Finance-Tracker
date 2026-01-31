@@ -96,6 +96,21 @@ npm run dev
 - Building CRUD functionaity with out a backend
 
 ----
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](./screenshots/dashboard.png)
+
+### Add Transaction Form
+![Add Transaction Form](./screenshots/form.png)
+
+### Analytics View
+![Analytics View](./screenshots/analytics.png)
+
+### Dark Mode
+![Dark Mode](./screenshots/dark-mode.png)
+
+----
 
 👤 Author
 
